@@ -1,0 +1,25 @@
+{
+    "empleados": [
+        {
+            "id": 1,
+            "nombre": "Franco",
+            "apellido": "Sosa",
+            "turno": "Mañana",
+            "sueldo": 100000
+        },
+        {
+            "id": 2,
+            "nombre": "Enzo",
+            "apellido": "Perez",
+            "turno": "Tarde",
+            "sueldo": 150000
+        },
+        {
+            "id": 3,
+            "nombre": "Tomas",
+            "apellido": "Ruiz",
+            "turno": "Tarde",
+            "sueldo": 130000
+        }
+    ]
+}
